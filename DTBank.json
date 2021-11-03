@@ -1,0 +1,13 @@
+{
+  "name": "Decentralized TimeLock Bank",
+  "description": "A decentralized timelock contract to protect you from spending your erc20/bep20 tokens. you specify a time to lock your token and come and withdraw it when the time has passed. The contract is not owned and is completely decentralized",
+  "image": "QmTvpk5ajDTvtHxGt1AjeMY5d773Y8wPNYZ5tHG53gkrAa",
+  "external_url": "",
+  "attributes": [
+    { "trait_type": "contractName", "value": "DecentralizedTokenLockBank" },
+    { "trait_type": "creatorAddress", "value": "0xDfD46cF9aF1A52bf360065fEF6200e47B9DeFcD9"},
+    { "trait_type": "creatorWebsite", "value": "https://agnostico.link"},
+    { "trait_type": "categories", "value": ["DeFi", "timelock", "token"] },
+    { "trait_type": "deploymentVariables", "value": [] }
+  ]
+}
